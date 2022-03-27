@@ -1,1 +1,3 @@
-# Kaggle_Competitions
+# Kaggle_Competitions Skip to
+content
+Kaggle
